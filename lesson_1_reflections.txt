@@ -1,0 +1,35 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+Viewing a diff allowed us to more easily see the differences between two files in order to find typos and errors.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+You can restore old files that contain useful pieces of code that you may have deleted so you can reuse the code without having to rewrite it.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+Manually choosing when to create a commit allows you to save at certain stages in the programming process which allows you to return back commits when you need to refer to old versions vs. auto save does not allow you to access certain version history at a good interval, which isn't as useful.
+Saving old versions of files in Git allows you to go back to previous version, while google docs saves your current version.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+By saving multiple files in one commit, you can restore multiple sets of code that accumulated a milestone that can all be saved under one commit. For example Commit titled Controls changed may contain multiple files that allowed you to reach the milestone controls changed.
+
+
+How can you use the commands git log and git diff to view the history of files?
+
+    Fill in your answer here
+
+How might using version control make you more confident to make changes that
+could break something?
+
+Because you can restore your history with without the coding error that "broke something" allowing you to restore your old progress that was working making it not a big deal to risk adding code that can break something.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+I want to learn how to program an interactive website being the end goal. But I can incrementally work towards it.
