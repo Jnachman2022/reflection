@@ -1,0 +1,28 @@
+When would you want to use a remote repository rather than keeping all your work
+local?
+
+Remote repositories allow for you to easily share you files and provide backup and accessibility.
+
+Why might you want to always pull changes manually rather than having Git
+automatically stay up-to-date with your remote repository?
+
+Manually pulling changes allows you to know when code is changed allowing you to more easily program new variations of a program.
+
+Describe the differences between forks, clones, and branches.  When would you
+use one instead of another?
+
+  
+What is the benefit of having a copy of the last known state of the remote
+stored locally?
+
+This allows you to view the states of your remote offline in order to program without wifi.
+
+How would you collaborate without using Git or GitHub?  What would be easier,
+and what would be harder?
+
+The next best way to collaborate would be email, and then Piazza. I think email would be easier than Piazza, however both work. Git is the easiest way to collaborate though.
+
+When would you want to make changes in a separate branch rather than directly in
+master?  What benefits does each approach have?
+
+The Master is primarily used for your final code that is used to operate a program. A seperate branch allows you to experiment with code that can possibly work in order to allow you to try new variations and possibly failing code.
